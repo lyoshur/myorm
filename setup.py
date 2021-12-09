@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
     # noinspection SpellCheckingInspection
     setup(
-        name="myorm",
+        name="mysql-orm",
         version="1.0.0",
         description=(
             "MySQL query tool class used by python."
