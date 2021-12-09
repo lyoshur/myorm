@@ -1,2 +1,2 @@
 # myorm
-mysqlmapper的升级版，底层换用superorm。简化了API
+An upgraded version of mysqlmapper that directly supports multithreaded from the bottom

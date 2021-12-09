@@ -1,0 +1,8 @@
+# base
+superorm==1.0.0
+
+# mysql conn
+PyMySQL==0.9.3
+
+# twine
+twine
