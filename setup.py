@@ -4,8 +4,8 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
     # noinspection SpellCheckingInspection
     setup(
-        name="mysql-orm",
-        version="1.0.0",
+        name="mysqlconn",
+        version="1.0.1",
         description=(
             "MySQL query tool class used by python."
         ),
@@ -35,7 +35,7 @@ with open("README.md", "r") as fh:
             'Topic :: Software Development :: Libraries'
         ],
         install_requires=[
-            'superorm==1.0.0',
+            'superorm==1.0.1',
             'PyMySQL',
         ],
         zip_safe=False
