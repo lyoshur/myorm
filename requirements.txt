@@ -1,5 +1,5 @@
 # base
-superorm==1.0.0
+superorm==1.0.2
 
 # mysql conn
 PyMySQL==0.9.3
